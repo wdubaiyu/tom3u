@@ -1,0 +1,8 @@
+*.class
+.idea/
+target/
+logs/
+*.iml
+DEBUG
+*.stat
+.scannerwork
